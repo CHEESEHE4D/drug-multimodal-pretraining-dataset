@@ -88,8 +88,8 @@ drug-multimodal-pretraining-dataset/
 │   └── merge_all_results_comparison.py
 ├── docs/
 │   ├── project_execution_summary.docx
-│   ├── research_summary_report.docx
-│   └── manuscript_draft.docx
+│   └── research_summary_report.docx
+│    
 ├── results/
 │   ├── target_task_summary.csv
 │   ├── baseline_results_all.csv
