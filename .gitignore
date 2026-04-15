@@ -117,6 +117,36 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large raw data
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.xml
+*.sdf
+*.sqlite
+*.h5
+
+# Large tables
+data/
+raw_data/
+processed/
+*.tsv
+
+# Optional: large csv files
+# *.csv
+
 # pixi
 #   Similar to Pipfile.lock, it is generally recommended to include pixi.lock in version control.
 #pixi.lock
