@@ -1,0 +1,12 @@
+2026-04-15 12:52:52,836 | INFO | 开始读取输入文件: C:\Users\asus\Desktop\毕业论文\大创2025--阶段1\数据处理结果\processed\02_smiles_standardized.csv
+2026-04-15 12:53:13,338 | INFO | 输入表 shape=(2938277, 17)
+2026-04-15 12:53:18,433 | INFO | 标准化成功且有 smiles_std 的记录数: 2937649
+2026-04-15 12:53:23,587 | INFO | 过滤后保留有 target 和 activity 的记录: 2937649 -> 82849
+2026-04-15 12:53:23,622 | INFO | 保留指定 activity_type/单位 后记录数: 82849
+2026-04-15 12:53:23,683 | INFO | 获得二分类标签的记录数: 64143
+2026-04-15 12:53:23,684 | INFO | 其中 active=28263, inactive=35880
+2026-04-15 12:53:23,730 | INFO | 去重后记录数: 64143 -> 61147
+2026-04-15 12:53:24,023 | INFO | 已输出: C:\Users\asus\Desktop\毕业论文\大创2025--阶段1\数据处理结果\activity_tasks\molecule_activity_clean.csv, shape=(61147, 14)
+2026-04-15 12:53:24,332 | INFO | 已输出: C:\Users\asus\Desktop\毕业论文\大创2025--阶段1\数据处理结果\activity_tasks\target_task_summary.csv, shape=(2492, 9)
+2026-04-15 12:53:24,333 | INFO | 已输出: C:\Users\asus\Desktop\毕业论文\大创2025--阶段1\数据处理结果\activity_tasks\activity_task_summary.md
+2026-04-15 12:53:24,333 | INFO | 全部完成。

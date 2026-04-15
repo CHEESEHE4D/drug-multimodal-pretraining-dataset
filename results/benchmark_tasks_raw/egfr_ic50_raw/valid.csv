@@ -1,0 +1,79 @@
+﻿source,source_id,molecule_name,smiles_raw,smiles_std,target_name,uniprot_id,activity_type,activity_value_nM,activity_unit,activity_label
+BindingDB,6584,,Clc1cccc(Nc2ncnc3ccc(Cl)cc23)c1,Clc1cccc(Nc2ncnc3ccc(Cl)cc23)c1,Epidermal growth factor receptor,,IC50,2700.0,nM,0
+BindingDB,4024,,"CCCCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(=O)n(C)c2n1 |(-6.5,-5.16,;-7.59,-4.08,;-6.82,-2.74,;-8.15,-1.97,;-8.15,-.43,;-6.82,.34,;-6.82,1.88,;-5.48,2.65,;-4.15,1.88,;-2.82,2.65,;-1.48,1.88,;-.15,2.65,;-.15,4.19,;-1.48,4.96,;1.18,4.96,;2.52,4.19,;2.52,2.65,;1.18,1.88,;1.18,.34,;-1.48,.34,;-.15,-.43,;-2.82,-.43,;-2.82,-1.97,;-4.15,.34,;-5.48,-.43,)|","CCCCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(=O)n(C)c2n1 |(-6.5,-5.16,;-7.59,-4.08,;-6.82,-2.74,;-8.15,-1.97,;-8.15,-.43,;-6.82,.34,;-6.82,1.88,;-5.48,2.65,;-4.15,1.88,;-2.82,2.65,;-1.48,1.88,;-.15,2.65,;-.15,4.19,;-1.48,4.96,;1.18,4.96,;2.52,4.19,;2.52,2.65,;1.18,1.88,;1.18,.34,;-1.48,.34,;-.15,-.43,;-2.82,-.43,;-2.82,-1.97,;-4.15,.34,;-5.48,-.43,)|",Epidermal growth factor receptor,,IC50,4400.0,nM,0
+BindingDB,5339,,Brc1cccc(Nc2ncnc3ccc4[nH]cnc4c23)c1,Brc1cccc(Nc2ncnc3ccc4[nH]cnc4c23)c1,Epidermal growth factor receptor,,IC50,29.0,nM,1
+BindingDB,5344,,Brc1cccc(Nc2ncnc3cc4[nH]ncc4cc23)c1,Brc1cccc(Nc2ncnc3cc4[nH]ncc4cc23)c1,Epidermal growth factor receptor,,IC50,0.44,nM,1
+BindingDB,8262,,COc1cc(\C=C(/C#N)C(=O)NCCCCNC(=O)C(=C\c2cc(OC)c(O)c(c2)[N+]([O-])=O)\C#N)cc(c1O)[N+]([O-])=O,COc1cc(\C=C(/C#N)C(=O)NCCCCNC(=O)C(=C\c2cc(OC)c(O)c(c2)[N+]([O-])=O)\C#N)cc(c1O)[N+]([O-])=O,Epidermal growth factor receptor,,IC50,112000.0,nM,0
+BindingDB,8271,,Oc1ccc(\C=C(/C#N)C(=O)Nc2ccccc2)cc1O,Oc1ccc(\C=C(/C#N)C(=O)Nc2ccccc2)cc1O,Epidermal growth factor receptor,,IC50,10000.0,nM,0
+BindingDB,8265,,Oc1ccc(\C=C(/C#N)C(=O)NCCN2CCN(CC2)C(=O)C(=C\c2ccc(O)c(O)c2)\C#N)cc1O,Oc1ccc(\C=C(/C#N)C(=O)NCCN2CCN(CC2)C(=O)C(=C\c2ccc(O)c(O)c2)\C#N)cc1O,Epidermal growth factor receptor,,IC50,2200.0,nM,0
+BindingDB,5332,,Brc1cccc(Nc2ncnc3cc4nc[nH]c4cc23)c1,Brc1cccc(Nc2ncnc3cc4nc[nH]c4cc23)c1,Epidermal growth factor receptor,,IC50,0.008,nM,1
+BindingDB,39758,,Fc1ccc(Nc2c(cnc3ccc(NCc4cnc[nH]4)cc23)C#N)cc1Cl,Fc1ccc(Nc2c(cnc3ccc(NCc4cnc[nH]4)cc23)C#N)cc1Cl,Epidermal growth factor receptor,,IC50,30.0,nM,1
+BindingDB,6650,,COc1cc2ncc(C#N)c(Nc3cc(Cl)ccc3O)c2cc1OC,COc1cc2ncc(C#N)c(Nc3cc(Cl)ccc3O)c2cc1OC,Epidermal growth factor receptor,,IC50,17020.0,nM,0
+BindingDB,6644,,COc1cc2ncc(C#N)c(Nc3cccc(O)c3)c2cc1OC,COc1cc2ncc(C#N)c(Nc3cccc(O)c3)c2cc1OC,Epidermal growth factor receptor,,IC50,6360.0,nM,0
+BindingDB,7255,,FC(F)(F)\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,FC(F)(F)\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Epidermal growth factor receptor,,IC50,1.75,nM,1
+BindingDB,5329,,COc1cc2ncnc(Nc3ccc(Br)cc3)c2cc1OC,COc1cc2ncnc(Nc3ccc(Br)cc3)c2cc1OC,Epidermal growth factor receptor,,IC50,0.96,nM,1
+BindingDB,5313,,CC(=O)Nc1cc2ncnc(Nc3cccc(Br)c3)c2cc1[N+]([O-])=O,CC(=O)Nc1cc2ncnc(Nc3cccc(Br)c3)c2cc1[N+]([O-])=O,Epidermal growth factor receptor,,IC50,28.0,nM,1
+BindingDB,5914,,OC(=O)CCc1c(SSc2[nH]c3ccccc3c2CCC(O)=O)[nH]c2ccccc12,OC(=O)CCc1c(SSc2[nH]c3ccccc3c2CCC(O)=O)[nH]c2ccccc12,Epidermal growth factor receptor,,IC50,4200.0,nM,0
+BindingDB,6772,,CCCN(CCC)C\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,CCCN(CCC)C\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Epidermal growth factor receptor,,IC50,90.0,nM,1
+BindingDB,5460,,Nc1cc2c(Nc3cccc(Br)c3)ncnc2cn1,Nc1cc2c(Nc3cccc(Br)c3)ncnc2cn1,Epidermal growth factor receptor,,IC50,0.13,nM,1
+BindingDB,7258,,Brc1cccc(Nc2ncnc3cnc(NC(=O)\C=C\c4ccccc4)cc23)c1,Brc1cccc(Nc2ncnc3cnc(NC(=O)\C=C\c4ccccc4)cc23)c1,Epidermal growth factor receptor,,IC50,9.1,nM,1
+BindingDB,154840,,Cc1cccc(Nc2ncnc3ccc(N)cc23)c1,Cc1cccc(Nc2ncnc3ccc(N)cc23)c1,Epidermal growth factor receptor,,IC50,1000.0,nM,0
+BindingDB,6755,,CN(C)CC#CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,CN(C)CC#CC(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Epidermal growth factor receptor,,IC50,6.0,nM,1
+BindingDB,8274,,Oc1ccc(cc1O)C(=O)C(=C\c1ccc2[nH]ccc2c1)\C#N,Oc1ccc(cc1O)C(=O)C(=C\c1ccc2[nH]ccc2c1)\C#N,Epidermal growth factor receptor,,IC50,10000.0,nM,0
+BindingDB,5453,,Brc1cccc(Nc2ncnc3cnc(NCCCn4ccnc4)nc23)c1,Brc1cccc(Nc2ncnc3cnc(NCCCn4ccnc4)nc23)c1,Epidermal growth factor receptor,,IC50,2.3,nM,1
+BindingDB,6601,,Cc1ccc2ncnc(Nc3ccccc3O)c2c1,Cc1ccc2ncnc(Nc3ccccc3O)c2c1,Epidermal growth factor receptor,,IC50,13000.0,nM,0
+BindingDB,5416,,CN(C)CCNc1cc2ncnc(Nc3cccc(Br)c3)c2cn1,CN(C)CCNc1cc2ncnc(Nc3cccc(Br)c3)c2cn1,Epidermal growth factor receptor,,IC50,45.0,nM,1
+BindingDB,6652,,COc1cc2ncc(C#N)c(Nc3ccc(C)c(Cl)c3)c2cc1OC,COc1cc2ncc(C#N)c(Nc3ccc(C)c(Cl)c3)c2cc1OC,Epidermal growth factor receptor,,IC50,1480.0,nM,0
+BindingDB,4929,,COc1cccc(CNc2ncnc3cc(N)ncc23)c1,COc1cccc(CNc2ncnc3cc(N)ncc23)c1,Epidermal growth factor receptor,,IC50,2870.0,nM,0
+BindingDB,4851,,Ic1cccc(Nc2ncnc3ccccc23)c1,Ic1cccc(Nc2ncnc3ccccc23)c1,Epidermal growth factor receptor,,IC50,80.0,nM,1
+BindingDB,5342,,Brc1cccc(Nc2ncnc3cc4ncsc4cc23)c1,Brc1cccc(Nc2ncnc3cc4ncsc4cc23)c1,Epidermal growth factor receptor,,IC50,44.0,nM,1
+BindingDB,4924,,Nc1cc2ncnc(NCc3ccc(Br)cc3)c2cn1,Nc1cc2ncnc(NCc3ccc(Br)cc3)c2cn1,Epidermal growth factor receptor,,IC50,2460.0,nM,0
+BindingDB,5420,,CN(C)CCN(C)c1cc2ncnc(Nc3cccc(Br)c3)c2cn1,CN(C)CCN(C)c1cc2ncnc(Nc3cccc(Br)c3)c2cn1,Epidermal growth factor receptor,,IC50,40.0,nM,1
+BindingDB,406583,,CCOC(=O)Nc1ccc(Nc2ncnc3cc(OC)c(OCCN(CC)CC)cc23)cc1,CCOC(=O)Nc1ccc(Nc2ncnc3cc(OC)c(OCCN(CC)CC)cc23)cc1,Epidermal growth factor receptor,,IC50,18600.0,nM,0
+BindingDB,6478,,[#8]-c1cccc2\[#6](-[#6]-[#6]-[#6]-c12)=[#6](/C#N)C#N,[#8]-c1cccc2\[#6](-[#6]-[#6]-[#6]-c12)=[#6](/C#N)C#N,Epidermal growth factor receptor,,IC50,1200000.0,nM,0
+BindingDB,406574,,Cc1cc(C)c(\C=C2/C(=O)Nc3ccccc23)[nH]1,Cc1cc(C)c(\C=C2/C(=O)Nc3ccccc23)[nH]1,Epidermal growth factor receptor,,IC50,16600.0,nM,0
+BindingDB,5893,,COC(=O)CC1C(=S)Nc2ccccc12,COC(=O)CC1C(=S)Nc2ccccc12,Epidermal growth factor receptor,,IC50,100000.0,nM,0
+BindingDB,6558,,"N#CC(=Cc1ccc[nH]1)C#N |(13.27,-4.43,;12.5,-5.77,;11.73,-7.1,;10.27,-7.1,;9.08,-7.98,;7.83,-7.07,;6.59,-7.98,;7.06,-9.44,;8.6,-9.44,;12.5,-8.43,;13.27,-9.77,)|","N#CC(=Cc1ccc[nH]1)C#N |(13.27,-4.43,;12.5,-5.77,;11.73,-7.1,;10.27,-7.1,;9.08,-7.98,;7.83,-7.07,;6.59,-7.98,;7.06,-9.44,;8.6,-9.44,;12.5,-8.43,;13.27,-9.77,)|",Epidermal growth factor receptor,,IC50,260000.0,nM,0
+BindingDB,4942,,CCN(CC)CCNC(=O)c1c([Se][Se]c2c(C(=O)NCCN(CC)CC)c3ccccc3n2C)n(C)c2ccccc12,CCN(CC)CCNC(=O)c1c([Se][Se]c2c(C(=O)NCCN(CC)CC)c3ccccc3n2C)n(C)c2ccccc12,Epidermal growth factor receptor,,IC50,4700.0,nM,0
+BindingDB,6567,,OC(=O)C(=C/c1cc(O)ccc1O)\C#N,OC(=O)C(=C/c1cc(O)ccc1O)\C#N,Epidermal growth factor receptor,,IC50,75000.0,nM,0
+BindingDB,5335,,CN(C)CCn1cnc2cc3ncnc(Nc4cccc(Br)c4)c3cc12,CN(C)CCn1cnc2cc3ncnc(Nc4cccc(Br)c4)c3cc12,Epidermal growth factor receptor,,IC50,1.32,nM,1
+BindingDB,7248,,Fc1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)c(NC(=O)C=C)cc23)cc1Cl,Fc1ccc(Nc2ncnc3cc(OCCCN4CCOCC4)c(NC(=O)C=C)cc23)cc1Cl,Epidermal growth factor receptor,,IC50,1.5,nM,1
+BindingDB,5472,,CN(C)CCN(C)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1,CN(C)CCN(C)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1,Epidermal growth factor receptor,,IC50,8.1,nM,1
+BindingDB,7271,,Brc1cccc(Nc2ncnc3cnc(NC(=O)\C=C\C(=O)NCCCn4ccnc4)cc23)c1,Brc1cccc(Nc2ncnc3cnc(NC(=O)\C=C\C(=O)NCCCn4ccnc4)cc23)c1,Epidermal growth factor receptor,,IC50,0.56,nM,1
+BindingDB,3841,,Clc1cccc(CNc2[nH]nc3ncnc(Nc4cccc(Cl)c4)c23)c1,Clc1cccc(CNc2[nH]nc3ncnc(Nc4cccc(Cl)c4)c23)c1,Epidermal growth factor receptor,,IC50,26.0,nM,1
+BindingDB,5524,,CCN(CC)CCn1c2ccc(OC)cc2c2c(Nc3cccc(Br)c3)ncnc12,CCN(CC)CCn1c2ccc(OC)cc2c2c(Nc3cccc(Br)c3)ncnc12,Epidermal growth factor receptor,,IC50,4270.0,nM,0
+BindingDB,5528,,[O-][N+](=O)c1ccc2sc3c(Nc4ccccc4)ncnc3c2c1,[O-][N+](=O)c1ccc2sc3c(Nc4ccccc4)ncnc3c2c1,Epidermal growth factor receptor,,IC50,58.0,nM,1
+BindingDB,5374,,CNc1ccc2c(Nc3cccc(Br)c3)ncnc2n1,CNc1ccc2c(Nc3cccc(Br)c3)ncnc2n1,Epidermal growth factor receptor,,IC50,52.0,nM,1
+BindingDB,11537,,Cc1ccsc1C(=O)n1nc(Nc2ccc(cc2)S(N)(=O)=O)nc1N,Cc1ccsc1C(=O)n1nc(Nc2ccc(cc2)S(N)(=O)=O)nc1N,Epidermal growth factor receptor,,IC50,8400.0,nM,0
+BindingDB,6674,,Brc1cccc(Nc2c(cnc3cc4OCOc4cc23)C#N)c1,Brc1cccc(Nc2c(cnc3cc4OCOc4cc23)C#N)c1,Epidermal growth factor receptor,,IC50,6790.0,nM,0
+BindingDB,5452,,Brc1cccc(Nc2ncnc3cnc(NCCc4cnc[nH]4)nc23)c1,Brc1cccc(Nc2ncnc3cnc(NCCc4cnc[nH]4)nc23)c1,Epidermal growth factor receptor,,IC50,0.25,nM,1
+BindingDB,6483,,Oc1ccc(\C=C(/C#N)C(=O)c2ccccc2Cl)cc1O,Oc1ccc(\C=C(/C#N)C(=O)c2ccccc2Cl)cc1O,Epidermal growth factor receptor,,IC50,1540.0,nM,0
+BindingDB,5430,,Brc1cccc(Nc2ncnc3cc(NCCc4cnc[nH]4)ncc23)c1,Brc1cccc(Nc2ncnc3cc(NCCc4cnc[nH]4)ncc23)c1,Epidermal growth factor receptor,,IC50,0.91,nM,1
+BindingDB,4907,,CN(C)c1ccccc1Nc1ncnc2cc(N)ncc12,CN(C)c1ccccc1Nc1ncnc2cc(N)ncc12,Epidermal growth factor receptor,,IC50,69000.0,nM,0
+BindingDB,51749,,Fc1cccc(COc2ccc(Nc3ncnc4cc(sc34)C#C[C@@H]3C[C@H](CN3)OC(=O)N3CCOCC3)cc2Cl)c1 |r|,Fc1cccc(COc2ccc(Nc3ncnc4cc(sc34)C#C[C@@H]3C[C@H](CN3)OC(=O)N3CCOCC3)cc2Cl)c1 |r|,Epidermal growth factor receptor,,IC50,80.0,nM,1
+BindingDB,8266,,Oc1ccc(\C=C(/C#N)C(=O)N2CCN(CC2)C(=O)C(=C\c2ccc(O)c(O)c2)\C#N)cc1O,Oc1ccc(\C=C(/C#N)C(=O)N2CCN(CC2)C(=O)C(=C\c2ccc(O)c(O)c2)\C#N)cc1O,Epidermal growth factor receptor,,IC50,4000.0,nM,0
+BindingDB,6765,,CCN1CCN(CC#CC(=O)Nc2ccc3ncnc(Nc4cccc(Br)c4)c3c2)CC1,CCN1CCN(CC#CC(=O)Nc2ccc3ncnc(Nc4cccc(Br)c4)c3c2)CC1,Epidermal growth factor receptor,,IC50,65.0,nM,1
+BindingDB,51804,,CN(C)C(=O)O[C@@H]1CN[C@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1 |r|,CN(C)C(=O)O[C@@H]1CN[C@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1 |r|,Epidermal growth factor receptor,,IC50,40.0,nM,1
+BindingDB,6507,,[#6]-[#8]-c1cc(\[#6]=[#6](/C#N)C#N)cc(-[#8]-[#6])c1-[#8],[#6]-[#8]-c1cc(\[#6]=[#6](/C#N)C#N)cc(-[#8]-[#6])c1-[#8],Epidermal growth factor receptor,,IC50,850000.0,nM,0
+BindingDB,51810,,CN(C)C(=O)O[C@H]1CN[C@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1 |r|,CN(C)C(=O)O[C@H]1CN[C@H](C1)C#Cc1cc2ncnc(Nc3ccc(OCc4cccc(F)c4)c(Cl)c3)c2s1 |r|,Epidermal growth factor receptor,,IC50,79.0,nM,1
+BindingDB,8666,,CS(=O)(=O)CCNCCCCOc1ccc2ncnc(Nc3ccc(cc3)S(=O)(=O)c3ccccc3)c2c1,CS(=O)(=O)CCNCCCCOc1ccc2ncnc(Nc3ccc(cc3)S(=O)(=O)c3ccccc3)c2c1,Epidermal growth factor receptor,,IC50,93.0,nM,1
+BindingDB,5347,,Brc1cccc(Nc2ncnc3cc4ccccc4cc23)c1,Brc1cccc(Nc2ncnc3cc4ccccc4cc23)c1,Epidermal growth factor receptor,,IC50,0.003,nM,1
+BindingDB,7324,,CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C2/C(=O)Nc3ccc(Br)cc23)c1C,CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C2/C(=O)Nc3ccc(Br)cc23)c1C,Epidermal growth factor receptor,,IC50,10000.0,nM,0
+BindingDB,3820,,Oc1cccc(Nc2[nH]nc3ncnc(Nc4cccc(Cl)c4)c23)c1,Oc1cccc(Nc2[nH]nc3ncnc(Nc4cccc(Cl)c4)c23)c1,Epidermal growth factor receptor,,IC50,1.0,nM,1
+BindingDB,5475,,CN1CCN(CCCNc2cc3c(Nc4cccc(Br)c4)ncnc3cn2)CC1,CN1CCN(CCCNc2cc3c(Nc4cccc(Br)c4)ncnc3cn2)CC1,Epidermal growth factor receptor,,IC50,3.9,nM,1
+BindingDB,5538,,Nc1cc2sc3c(Nc4cccc(Br)c4)ncnc3c2cc1F,Nc1cc2sc3c(Nc4cccc(Br)c4)ncnc3c2cc1F,Epidermal growth factor receptor,,IC50,1.0,nM,1
+BindingDB,5330,,COc1cc2ncnc(Nc3ccc(Br)c(Br)c3)c2cc1OC,COc1cc2ncnc(Nc3ccc(Br)c(Br)c3)c2cc1OC,Epidermal growth factor receptor,,IC50,0.072,nM,1
+BindingDB,7263,,CN(C)CCN(C(=O)C=C)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1,CN(C)CCN(C(=O)C=C)c1cc2c(Nc3cccc(Br)c3)ncnc2cn1,Epidermal growth factor receptor,,IC50,4.2,nM,1
+BindingDB,7260,,OC(=O)\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,OC(=O)\C=C\C(=O)Nc1ccc2ncnc(Nc3cccc(Br)c3)c2c1,Epidermal growth factor receptor,,IC50,0.37,nM,1
+BindingDB,59723,,CCC\C(=C\c1coc2nc(N)nc(N)c12)c1ccccc1OC,CCC\C(=C\c1coc2nc(N)nc(N)c12)c1ccccc1OC,Epidermal growth factor receptor,,IC50,160300.0,nM,0
+BindingDB,406598,,CCCCNC(=O)Nc1ccc(Nc2ncnc3cc(OC)c(OCCN(CC)CC)cc23)cc1,CCCCNC(=O)Nc1ccc(Nc2ncnc3cc(OC)c(OCCN(CC)CC)cc23)cc1,Epidermal growth factor receptor,,IC50,3400.0,nM,0
+BindingDB,6463,,N=C(C(C#N)C#N)C(=Cc1ccc2[nH]ccc2c1)C#N |w:8.8|,N=C(C(C#N)C#N)C(=Cc1ccc2[nH]ccc2c1)C#N |w:8.8|,Epidermal growth factor receptor,,IC50,820000.0,nM,0
+BindingDB,4007,,"CCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(=O)n(C)c2n1 |(-9.48,-2.74,;-8.15,-1.97,;-8.15,-.43,;-6.82,.34,;-6.82,1.88,;-5.48,2.65,;-4.15,1.88,;-2.82,2.65,;-1.48,1.88,;-.15,2.65,;-.15,4.19,;-1.48,4.96,;1.18,4.96,;2.52,4.19,;2.52,2.65,;1.18,1.88,;1.18,.34,;-1.48,.34,;-.15,-.43,;-2.82,-.43,;-2.82,-1.97,;-4.15,.34,;-5.48,-.43,)|","CCNc1ncc2cc(-c3c(Cl)cccc3Cl)c(=O)n(C)c2n1 |(-9.48,-2.74,;-8.15,-1.97,;-8.15,-.43,;-6.82,.34,;-6.82,1.88,;-5.48,2.65,;-4.15,1.88,;-2.82,2.65,;-1.48,1.88,;-.15,2.65,;-.15,4.19,;-1.48,4.96,;1.18,4.96,;2.52,4.19,;2.52,2.65,;1.18,1.88,;1.18,.34,;-1.48,.34,;-.15,-.43,;-2.82,-.43,;-2.82,-1.97,;-4.15,.34,;-5.48,-.43,)|",Epidermal growth factor receptor,,IC50,4500.0,nM,0
+BindingDB,5354,,CC(=O)Nc1cc2ncnc(Nc3cccc(Br)c3)c2cn1,CC(=O)Nc1cc2ncnc(Nc3cccc(Br)c3)c2cn1,Epidermal growth factor receptor,,IC50,29.0,nM,1
+BindingDB,6510,,[#8-]-[#7+](=O)-c1cc2-[#8]-[#6]-[#8]-c2cc1\[#6]=[#6](\C#N)C#N,[#8-]-[#7+](=O)-c1cc2-[#8]-[#6]-[#8]-c2cc1\[#6]=[#6](\C#N)C#N,Epidermal growth factor receptor,,IC50,560000.0,nM,0
+BindingDB,5499,,Brc1cccc(Nc2ncnc3sccc23)c1,Brc1cccc(Nc2ncnc3sccc23)c1,Epidermal growth factor receptor,,IC50,35.0,nM,1
+BindingDB,5922,,Cn1c(SSc2c(CCCC(O)=O)c3ccccc3n2C)c(CCCC(O)=O)c2ccccc12,Cn1c(SSc2c(CCCC(O)=O)c3ccccc3n2C)c(CCCC(O)=O)c2ccccc12,Epidermal growth factor receptor,,IC50,8300.0,nM,0
+BindingDB,5265,,Clc1cccc(Nc2ncnc3ccccc23)c1,Clc1cccc(Nc2ncnc3ccccc23)c1,Epidermal growth factor receptor,,IC50,23.0,nM,1
+BindingDB,10627,,OCCCCNc1cncc(c1)-c1cncc(Nc2cccc(Cl)c2)n1,OCCCCNc1cncc(c1)-c1cncc(Nc2cccc(Cl)c2)n1,Epidermal growth factor receptor,,IC50,7400.0,nM,0
+BindingDB,5459,,Cc1cccc(Nc2ncnc3cnc(NCCc4cnc[nH]4)nc23)c1,Cc1cccc(Nc2ncnc3cnc(NCCc4cnc[nH]4)nc23)c1,Epidermal growth factor receptor,,IC50,3.0,nM,1
+BindingDB,5317,,Oc1cc2ncnc(Nc3cccc(Br)c3)c2cc1O,Oc1cc2ncnc(Nc3cccc(Br)c3)c2cc1O,Epidermal growth factor receptor,,IC50,0.17,nM,1

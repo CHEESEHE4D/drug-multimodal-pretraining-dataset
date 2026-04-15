@@ -1,0 +1,129 @@
+﻿source,source_id,molecule_name,smiles_raw,smiles_std,target_name,uniprot_id,activity_type,activity_value_nM,activity_unit,activity_label
+BindingDB,17486,,Cc1nc2cccc(Cl)c2c(N)c1COCc1cccc(c1)C(=O)C(F)(F)F,Cc1nc2cccc(Cl)c2c(N)c1COCc1cccc(c1)C(=O)C(F)(F)F,Acetylcholinesterase,,IC50,5.1,nM,1
+BindingDB,292963,,COc1ccc(NC(=O)Nc2nc(cs2)-c2cc3cccc(OC)c3oc2=O)cc1,COc1ccc(NC(=O)Nc2nc(cs2)-c2cc3cccc(OC)c3oc2=O)cc1,Acetylcholinesterase,,IC50,119460.0,nM,0
+BindingDB,293164,,COc1ccc(Cn2c3ccccc3nc3c2nc(=O)[nH]c3=O)cc1OC,COc1ccc(Cn2c3ccccc3nc3c2nc(=O)[nH]c3=O)cc1OC,Acetylcholinesterase,,IC50,32550.0,nM,0
+BindingDB,17459,,C(CCCCNc1c2CCCCc2nc2ccccc12)CCCCNc1c2CCCCc2nc2ccccc12,C(CCCCNc1c2CCCCc2nc2ccccc12)CCCCNc1c2CCCCc2nc2ccccc12,Acetylcholinesterase,,IC50,31.0,nM,1
+BindingDB,388719,,CC1(C)NC(=O)c2ccccc2N1,CC1(C)NC(=O)c2ccccc2N1,Acetylcholinesterase,,IC50,80300.0,nM,0
+BindingDB,15508,,Clc1ccc2c(NCCCCCCNC(=O)CN3C(=O)c4ccccc4C3=O)c3CCCCc3nc2c1,Clc1ccc2c(NCCCCCCNC(=O)CN3C(=O)c4ccccc4C3=O)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,10.0,nM,1
+BindingDB,34091,,"[H][C@@]12CC3=CC[C@@H]4N=C(OC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](O)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)[C@@H](C)CC |r,c:7,t:3|","[H][C@@]12CC3=CC[C@@H]4N=C(OC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](O)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)[C@@H](C)CC |r,c:7,t:3|",Acetylcholinesterase,,IC50,13.0,nM,1
+BindingDB,311746,,Clc1ccc(Cn2cc(COC(=O)COc3cc(=O)oc4ccccc34)nn2)cc1,Clc1ccc(Cn2cc(COC(=O)COc3cc(=O)oc4ccccc34)nn2)cc1,Acetylcholinesterase,,IC50,13000.0,nM,0
+BindingDB,408701,,COc1ccc(\C=C\C(=O)OCC[N+](C)(C)C)cc1OC,COc1ccc(\C=C\C(=O)OCC[N+](C)(C)C)cc1OC,Acetylcholinesterase,,IC50,7300.0,nM,0
+BindingDB,388467,,Cc1ccccc1Cn1nncc1CNC(=O)c1cc2ccccc2oc1=O,Cc1ccccc1Cn1nncc1CNC(=O)c1cc2ccccc2oc1=O,Acetylcholinesterase,,IC50,78920.0,nM,0
+BindingDB,290159,,CCOP(=O)(OCC)Oc1ccc(Cl)cc1C(=O)Nc1ccc(F)cc1,CCOP(=O)(OCC)Oc1ccc(Cl)cc1C(=O)Nc1ccc(F)cc1,Acetylcholinesterase,,IC50,48500.0,nM,0
+BindingDB,321274,,O=S(=O)(N(Cc1ccccc1)c1ccc(cc1)-c1ccc(cc1)N(Cc1ccccc1)S(=O)(=O)c1ccccc1)c1ccccc1,O=S(=O)(N(Cc1ccccc1)c1ccc(cc1)-c1ccc(cc1)N(Cc1ccccc1)S(=O)(=O)c1ccccc1)c1ccccc1,Acetylcholinesterase,,IC50,61570.0,nM,0
+BindingDB,354285,,Clc1ccc2nc3CCCCc3c(NCc3ccccc3)c2c1,Clc1ccc2nc3CCCCc3c(NCc3ccccc3)c2c1,Acetylcholinesterase,,IC50,2600.0,nM,0
+BindingDB,292979,,[O-][N+](=O)c1ccc2oc(=O)c(cc2c1)-c1csc(NC(=O)Nc2ccc(F)cc2)n1,[O-][N+](=O)c1ccc2oc(=O)c(cc2c1)-c1csc(NC(=O)Nc2ccc(F)cc2)n1,Acetylcholinesterase,,IC50,134500.0,nM,0
+BindingDB,18606,,CNC(=O)Oc1ccc2N(C)C3N(C)CCC3(C)c2c1,CNC(=O)Oc1ccc2N(C)C3N(C)CCC3(C)c2c1,Acetylcholinesterase,,IC50,14.0,nM,1
+BindingDB,57501,,Nc1c2CCCCc2nc2cc(Cl)ccc12,Nc1c2CCCCc2nc2cc(Cl)ccc12,Acetylcholinesterase,,IC50,5.73,nM,1
+BindingDB,354280,,Clc1ccc2c(NCc3ccccc3)c3CCCCc3nc2c1,Clc1ccc2c(NCc3ccccc3)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,1700.0,nM,0
+BindingDB,17996,,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3ccccc3c2)c1,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3ccccc3c2)c1,Acetylcholinesterase,,IC50,82.6,nM,1
+BindingDB,57487,,Nc1c2CCCCc2nc2cc(Cl)ccc12,Nc1c2CCCCc2nc2cc(Cl)ccc12,Acetylcholinesterase,,IC50,8.32,nM,1
+BindingDB,17738,,CCNC(=O)Oc1ccc2N(C)C3OCC[C@@]3(C)c2c1 |r|,CCNC(=O)Oc1ccc2N(C)C3OCC[C@@]3(C)c2c1 |r|,Acetylcholinesterase,,IC50,82.0,nM,1
+BindingDB,351690,,"COc1ccc2CN(C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:12|","COc1ccc2CN(C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:12|",Acetylcholinesterase,,IC50,4000.0,nM,0
+BindingDB,290158,,CCOP(=O)(OCC)Oc1ccc(Cl)cc1C(=O)Nc1cccc(F)c1,CCOP(=O)(OCC)Oc1ccc(Cl)cc1C(=O)Nc1cccc(F)c1,Acetylcholinesterase,,IC50,61100.0,nM,0
+BindingDB,17731,,CNC(=O)Oc1ccc2N(C)C3N(C)CC[C@]3(C)c2c1 |r|,CNC(=O)Oc1ccc2N(C)C3N(C)CC[C@]3(C)c2c1 |r|,Acetylcholinesterase,,IC50,9890.0,nM,0
+BindingDB,422099,,CN(C)C(=O)Oc1cccc(c1)[N+](C)(C)C,CN(C)C(=O)Oc1cccc(c1)[N+](C)(C)C,Acetylcholinesterase,,IC50,50.0,nM,1
+BindingDB,15371,,O=C(CCCCCNc1c2CCCCc2nc2ccccc12)NCCc1c[nH]c2ccccc12,O=C(CCCCCNc1c2CCCCc2nc2ccccc12)NCCc1c[nH]c2ccccc12,Acetylcholinesterase,,IC50,4.0,nM,1
+BindingDB,351759,,CCc1ccc2N(CC#C)CCC(N3CCCC3=O)c2c1,CCc1ccc2N(CC#C)CCC(N3CCCC3=O)c2c1,Acetylcholinesterase,,IC50,443660.0,nM,0
+BindingDB,34152,,"[H][C@@]12CC3=CC[C@@H]4N=C(OC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](OC(=O)C(C)(C)C)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)C(C)C |r,c:7,t:3|","[H][C@@]12CC3=CC[C@@H]4N=C(OC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](OC(=O)C(C)(C)C)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)C(C)C |r,c:7,t:3|",Acetylcholinesterase,,IC50,1385.0,nM,0
+BindingDB,18626,,"CN(CCCCCCCCCCN(C)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3 |r,c:38,65,TLB:44:45:47.48.54:59.57.56,53:54:45:59.57.56,30:31:22:36.34.33,21:22:24.25.31:36.34.33,THB:35:34:22:24.25.31,49:48:45:59.57.56,26:25:22:36.34.33,58:57:45:47.48.54|","CN(CCCCCCCCCCN(C)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3 |r,c:38,65,TLB:44:45:47.48.54:59.57.56,53:54:45:59.57.56,30:31:22:36.34.33,21:22:24.25.31:36.34.33,THB:35:34:22:24.25.31,49:48:45:59.57.56,26:25:22:36.34.33,58:57:45:47.48.54|",Acetylcholinesterase,,IC50,4.93,nM,1
+BindingDB,18704,,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)Nc3ccccc3CC)ccc1N2C |r|,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)Nc3ccccc3CC)ccc1N2C |r|,Acetylcholinesterase,,IC50,10.0,nM,1
+BindingDB,15356,,Nc1ccc2nc3CCCCc3c(N)c2c1,Nc1ccc2nc3CCCCc3c(N)c2c1,Acetylcholinesterase,,IC50,3800.0,nM,0
+BindingDB,15425,,CN(CCCNC(=O)CCc1c[nH]c2ccccc12)CCCNc1c2CCCCc2nc2cc(Cl)ccc12,CN(CCCNC(=O)CCc1c[nH]c2ccccc12)CCCNc1c2CCCCc2nc2cc(Cl)ccc12,Acetylcholinesterase,,IC50,2.9,nM,1
+BindingDB,406385,,[O-]S(=O)(=O)c1cc(ccc1C1=c2cc3CCC[N+]4=c3c(CCC4)c2Oc2c3CCCN4CCCc(cc12)c34)S(=O)(=O)NCC#C,[O-]S(=O)(=O)c1cc(ccc1C1=c2cc3CCC[N+]4=c3c(CCC4)c2Oc2c3CCCN4CCCc(cc12)c34)S(=O)(=O)NCC#C,Acetylcholinesterase,,IC50,10400.0,nM,0
+BindingDB,311736,,Brc1ccc(Cn2cc(COC(=O)COc3cc(=O)oc4ccccc34)nn2)cc1,Brc1ccc(Cn2cc(COC(=O)COc3cc(=O)oc4ccccc34)nn2)cc1,Acetylcholinesterase,,IC50,87900.0,nM,0
+BindingDB,199305,,ClP(Cl)(=O)NC(=O)c1ccc(Br)cc1,ClP(Cl)(=O)NC(=O)c1ccc(Br)cc1,Acetylcholinesterase,,IC50,130000.0,nM,0
+BindingDB,57490,,Clc1ccc(cc1)-c1nc2ccc(cc2c2OCCCc12)C(=O)NCCCCCCCCNc1c2CCCCc2nc2cc(Cl)ccc12,Clc1ccc(cc1)-c1nc2ccc(cc2c2OCCCc12)C(=O)NCCCCCCCCNc1c2CCCCc2nc2cc(Cl)ccc12,Acetylcholinesterase,,IC50,10.4,nM,1
+BindingDB,15422,,Clc1ccc2c(NCCCCCCCCCNC(=O)CCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Clc1ccc2c(NCCCCCCCCCNC(=O)CCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,4.4,nM,1
+BindingDB,15940,,C(CC1CCN(Cc2ccccc2)CC1)NCc1ccccc1,C(CC1CCN(Cc2ccccc2)CC1)NCc1ccccc1,Acetylcholinesterase,,IC50,46000.0,nM,0
+BindingDB,389027,,CCN(CC)Cc1cc(\C=C\c2cnc(C)c(O)c2CO)ccc1O,CCN(CC)Cc1cc(\C=C\c2cnc(C)c(O)c2CO)ccc1O,Acetylcholinesterase,,IC50,14010.0,nM,0
+BindingDB,20957,,[H][C@@]12N(C)c3ccc(OC(=O)Nc4cc(C)cc(C)c4)cc3[C@]1(C)CC[N+]2(C)[O-] |r|,[H][C@@]12N(C)c3ccc(OC(=O)Nc4cc(C)cc(C)c4)cc3[C@]1(C)CC[N+]2(C)[O-] |r|,Acetylcholinesterase,,IC50,8580.0,nM,0
+BindingDB,321527,,"CC1(CC(=C(C#N)C(N1)=C(C#N)c1nnn[nH]1)c1ccccc1)c1ccccc1 |w:7.6,t:3|","CC1(CC(=C(C#N)C(N1)=C(C#N)c1nnn[nH]1)c1ccccc1)c1ccccc1 |w:7.6,t:3|",Acetylcholinesterase,,IC50,7020.0,nM,0
+BindingDB,15435,,Clc1ccc2c(NCCCCCCNC(=O)CCCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Clc1ccc2c(NCCCCCCNC(=O)CCCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,0.5,nM,1
+BindingDB,18178,,CN(C)C(=O)Oc1ccc2CCC(Cc2c1)NCC#C,CN(C)C(=O)Oc1ccc2CCC(Cc2c1)NCC#C,Acetylcholinesterase,,IC50,4100.0,nM,0
+BindingDB,351756,,Cc1ccc2N(CC#C)CCC(N3CCCC3=O)c2c1,Cc1ccc2N(CC#C)CCC(N3CCCC3=O)c2c1,Acetylcholinesterase,,IC50,259630.0,nM,0
+BindingDB,354298,,Clc1ccc2nc3CCCCc3c(NCc3cccnc3)c2c1,Clc1ccc2nc3CCCCc3c(NCc3cccnc3)c2c1,Acetylcholinesterase,,IC50,7700.0,nM,0
+BindingDB,20956,,[H][C@@]12N(C)c3ccc(OC(=O)Nc4c(C)cccc4C)cc3[C@]1(C)CC[N+]2(C)[O-] |r|,[H][C@@]12N(C)c3ccc(OC(=O)Nc4c(C)cccc4C)cc3[C@]1(C)CC[N+]2(C)[O-] |r|,Acetylcholinesterase,,IC50,186000.0,nM,0
+BindingDB,57492,,Clc1ccc(cc1)-c1nc2ccc(cc2c2OCCCc12)C(=O)NCCCCCCCCCCNc1c2CCCCc2nc2cc(Cl)ccc12,Clc1ccc(cc1)-c1nc2ccc(cc2c2OCCCc12)C(=O)NCCCCCCCCCCNc1c2CCCCc2nc2cc(Cl)ccc12,Acetylcholinesterase,,IC50,93.7,nM,1
+BindingDB,408504,,C(N1CCc2c(C1)sc1N=CN3CCCN=C3c21)c1ccccc1,C(N1CCc2c(C1)sc1N=CN3CCCN=C3c21)c1ccccc1,Acetylcholinesterase,,IC50,62500.0,nM,0
+BindingDB,351679,,CC(=O)C1=C(C)NC(=S)NC1c1ccccc1 |c:3|,CC(=O)C1=C(C)NC(=S)NC1c1ccccc1 |c:3|,Acetylcholinesterase,,IC50,87600.0,nM,0
+BindingDB,395838,,CC1(NC(=O)c2ccccc2N1Cc1ccccc1)c1ccccc1,CC1(NC(=O)c2ccccc2N1Cc1ccccc1)c1ccccc1,Acetylcholinesterase,,IC50,16700.0,nM,0
+BindingDB,34166,,"[H][C@@]12CC3=CC[C@@H]4N=C(NC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](O)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)[C@@H](C)CC |r,c:7,t:3|","[H][C@@]12CC3=CC[C@@H]4N=C(NC[C@@]4(C)[C@]3([H])CC[C@@]1([H])[C@]1(C)C[C@@H](O)[C@H]([C@H](C)N(C)C)[C@@]1(C)CC2=O)[C@@H](C)CC |r,c:7,t:3|",Acetylcholinesterase,,IC50,3832.0,nM,0
+BindingDB,361304,,COc1cccc(\C=C2/CCc3cc(OC)c(OC)cc3C2=O)c1Cl,COc1cccc(\C=C2/CCc3cc(OC)c(OC)cc3C2=O)c1Cl,Acetylcholinesterase,,IC50,29500.0,nM,0
+BindingDB,351754,,Brc1ccc2N(CC=C)CCC(N3CCCC3=O)c2c1,Brc1ccc2N(CC=C)CCC(N3CCCC3=O)c2c1,Acetylcholinesterase,,IC50,168030.0,nM,0
+BindingDB,389018,,CCN(CC)Cc1ccc(\C=C\c2cnc(C)c(O)c2CO)cc1O,CCN(CC)Cc1ccc(\C=C\c2cnc(C)c(O)c2CO)cc1O,Acetylcholinesterase,,IC50,2330.0,nM,0
+BindingDB,15980,,c1ccc2c(c1)c(c3c(n2)CCCC3)NCCCCCCCNc4c5ccccc5nc6c4CCCC6,c1ccc2c(c1)c(c3c(n2)CCCC3)NCCCCCCCNc4c5ccccc5nc6c4CCCC6,Acetylcholinesterase,,IC50,1.5,nM,1
+BindingDB,361298,,COc1ccc2C(=O)\C(CCc2c1)=C\c1cccc(OC)c1Cl,COc1ccc2C(=O)\C(CCc2c1)=C\c1cccc(OC)c1Cl,Acetylcholinesterase,,IC50,43900.0,nM,0
+BindingDB,17359,,"CN1CC[C@@]23C=C[C@H](O)C[C@@H]2Oc2c3c(C1)ccc2OCCCCCCCCCCCCN1C(=O)c2ccccc2C1=O |r,c:5|","CN1CC[C@@]23C=C[C@H](O)C[C@@H]2Oc2c3c(C1)ccc2OCCCCCCCCCCCCN1C(=O)c2ccccc2C1=O |r,c:5|",Acetylcholinesterase,,IC50,4600.0,nM,0
+BindingDB,18679,,[H][C@@](C)(N(C)C)c1cccc(OC(=O)N(C)CC)c1,[H][C@@](C)(N(C)C)c1cccc(OC(=O)N(C)CC)c1,Acetylcholinesterase,,IC50,4150.0,nM,0
+BindingDB,420304,,CCOP(=O)(OCC)C(OC(=O)Nc1ccccc1)c1ccc(SC)cc1,CCOP(=O)(OCC)C(OC(=O)Nc1ccccc1)c1ccc(SC)cc1,Acetylcholinesterase,,IC50,161420.0,nM,0
+BindingDB,408500,,O=C1N2CCCN=C2Nc2sc3CN(Cc4ccccc4)CCc3c12,O=C1N2CCCN=C2Nc2sc3CN(Cc4ccccc4)CCc3c12,Acetylcholinesterase,,IC50,5690.0,nM,0
+BindingDB,290154,,CCOP(=O)(OCC)Oc1ccc(Br)cc1C(=O)Nc1ccc(Br)cc1,CCOP(=O)(OCC)Oc1ccc(Br)cc1C(=O)Nc1ccc(Br)cc1,Acetylcholinesterase,,IC50,50800.0,nM,0
+BindingDB,354294,,C(Nc1c2CCCCc2nc2ccccc12)c1cccnc1,C(Nc1c2CCCCc2nc2ccccc12)c1cccnc1,Acetylcholinesterase,,IC50,4000.0,nM,0
+BindingDB,395860,,CC(C)CC1(C)NC(=O)c2ccccc2N1Cc1ccc(Cl)cc1,CC(C)CC1(C)NC(=O)c2ccccc2N1Cc1ccc(Cl)cc1,Acetylcholinesterase,,IC50,9200.0,nM,0
+BindingDB,406384,,CCN(CC)c1ccc2c(-c3ccc(cc3S([O-])(=O)=O)S(=O)(=O)NCC#C)c3ccc(cc3oc2c1)=[N+](CC)CC,CCN(CC)c1ccc2c(-c3ccc(cc3S([O-])(=O)=O)S(=O)(=O)NCC#C)c3ccc(cc3oc2c1)=[N+](CC)CC,Acetylcholinesterase,,IC50,3570.0,nM,0
+BindingDB,15475,,Fc1ccc2c(NCCCCCCCCNc3c4CCCCc4nc4cc(F)ccc34)c3CCCCc3nc2c1,Fc1ccc2c(NCCCCCCCCNc3c4CCCCc4nc4cc(F)ccc34)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,0.7,nM,1
+BindingDB,406705,,CCCCC(CC)CN(CP(O)(O)=O)CP(O)(O)=O,CCCCC(CC)CN(CP(O)(O)=O)CP(O)(O)=O,Acetylcholinesterase,,IC50,9480000.0,nM,0
+BindingDB,388721,,CCC1(C)NC(=O)c2ccccc2N1,CCC1(C)NC(=O)c2ccccc2N1,Acetylcholinesterase,,IC50,29400.0,nM,0
+BindingDB,293107,,COc1ccc(cc1)C(=O)c1cc(Br)c(OC)cc1OC,COc1ccc(cc1)C(=O)c1cc(Br)c(OC)cc1OC,Acetylcholinesterase,,IC50,4.05,nM,1
+BindingDB,15509,,Clc1ccc2c(NCCCCCCCNC(=O)CN3C(=O)c4ccccc4C3=O)c3CCCCc3nc2c1,Clc1ccc2c(NCCCCCCCNC(=O)CN3C(=O)c4ccccc4C3=O)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,20.0,nM,1
+BindingDB,292954,,[O-][N+](=O)c1ccc(NC(=O)Nc2nc(cs2)-c2cc3ccccc3oc2=O)cc1,[O-][N+](=O)c1ccc(NC(=O)Nc2nc(cs2)-c2cc3ccccc3oc2=O)cc1,Acetylcholinesterase,,IC50,74780.0,nM,0
+BindingDB,17964,,CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3C(=O)C(Cc3c2)=Cc2cc(OC)c(OC)c(OC)c2)c1 |w:31.33|,CNC(=O)Oc1cccc(CN(C)CCCCCCCOc2ccc3C(=O)C(Cc3c2)=Cc2cc(OC)c(OC)c(OC)c2)c1 |w:31.33|,Acetylcholinesterase,,IC50,1.8,nM,1
+BindingDB,17338,,"COc1ccc2C=[N+](CCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:32,t:6|","COc1ccc2C=[N+](CCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:32,t:6|",Acetylcholinesterase,,IC50,11.0,nM,1
+BindingDB,388955,,CC(=O)NC(Cc1ccc(F)cc1)C(=O)Nc1ccc(C)cc1,CC(=O)NC(Cc1ccc(F)cc1)C(=O)Nc1ccc(C)cc1,Acetylcholinesterase,,IC50,68970.0,nM,0
+BindingDB,17349,,"COc1ccc2C=[N+](CCCCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:34,t:6|","COc1ccc2C=[N+](CCCCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:34,t:6|",Acetylcholinesterase,,IC50,20.0,nM,1
+BindingDB,423998,,Cc1nc(cs1)-c1ccc(NC(=O)CN2CCN(CC2)c2cccc(C)c2)cc1,Cc1nc(cs1)-c1ccc(NC(=O)CN2CCN(CC2)c2cccc(C)c2)cc1,Acetylcholinesterase,,IC50,88350.0,nM,0
+BindingDB,290170,,CCOP(=O)(OCC)Oc1cc(Cl)ccc1C(=O)Nc1ccc(Cl)cc1,CCOP(=O)(OCC)Oc1cc(Cl)ccc1C(=O)Nc1ccc(Cl)cc1,Acetylcholinesterase,,IC50,60900.0,nM,0
+BindingDB,408495,,C(N1CCc2c(C1)sc1N=CN3CCN=C3c21)c1ccccc1,C(N1CCc2c(C1)sc1N=CN3CCN=C3c21)c1ccccc1,Acetylcholinesterase,,IC50,3090.0,nM,0
+BindingDB,15549,,COc1ccc2Cc3c(nc4ccccc4c3N)-c2c1,COc1ccc2Cc3c(nc4ccccc4c3N)-c2c1,Acetylcholinesterase,,IC50,4300.0,nM,0
+BindingDB,17351,,"COc1ccc2CN(CCC[N+](C)(C)C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:18|","COc1ccc2CN(CCC[N+](C)(C)C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:18|",Acetylcholinesterase,,IC50,12400.0,nM,0
+BindingDB,422096,,Oc1cc(O)c(cc1Cl)-c1nnc(Nc2cccc(Cl)c2)s1,Oc1cc(O)c(cc1Cl)-c1nnc(Nc2cccc(Cl)c2)s1,Acetylcholinesterase,,IC50,2680.0,nM,0
+BindingDB,17358,,"CN1CC[C@@]23C=C[C@H](O)C[C@@H]2Oc2c3c(C1)ccc2OCCCCCCCCCCN1C(=O)c2ccccc2C1=O |r,c:5|","CN1CC[C@@]23C=C[C@H](O)C[C@@H]2Oc2c3c(C1)ccc2OCCCCCCCCCCN1C(=O)c2ccccc2C1=O |r,c:5|",Acetylcholinesterase,,IC50,4000.0,nM,0
+BindingDB,15888,,Nc1c2C(O)CCc2nc2ccccc12,Nc1c2C(O)CCc2nc2ccccc12,Acetylcholinesterase,,IC50,5970.0,nM,0
+BindingDB,388974,,CC(=O)NC(Cc1ccccc1F)C(=O)Oc1ccc(cc1)C(F)(F)F,CC(=O)NC(Cc1ccccc1F)C(=O)Oc1ccc(cc1)C(F)(F)F,Acetylcholinesterase,,IC50,67970.0,nM,0
+BindingDB,15382,,COc1ccc2[nH]cc(CCNC(=O)CCCCCCNc3c4CCCCc4nc4cc(Cl)cc(Cl)c34)c2c1,COc1ccc2[nH]cc(CCNC(=O)CCCCCCNc3c4CCCCc4nc4cc(Cl)cc(Cl)c34)c2c1,Acetylcholinesterase,,IC50,5.0,nM,1
+BindingDB,408705,,Cc1c(C)c2OC(C)(CCc2c(C)c1O)C(=O)OCC[N+](C)(C)C,Cc1c(C)c2OC(C)(CCc2c(C)c1O)C(=O)OCC[N+](C)(C)C,Acetylcholinesterase,,IC50,1193000.0,nM,0
+BindingDB,311741,,Fc1ccccc1Cn1cc(COC(=O)COc2cc(=O)oc3ccccc23)nn1,Fc1ccccc1Cn1cc(COC(=O)COc2cc(=O)oc3ccccc23)nn1,Acetylcholinesterase,,IC50,5700.0,nM,0
+BindingDB,24320,,COc1cc(cc(OC)c1OC)C(=O)NCCCCCCC(=O)NNc1c2CCCCc2nc2ccccc12,COc1cc(cc(OC)c1OC)C(=O)NCCCCCCC(=O)NNc1c2CCCCc2nc2ccccc12,Acetylcholinesterase,,IC50,9.76,nM,1
+BindingDB,17954,,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3C(=O)C(Oc3c2)=Cc2cc(OC)c(OC)c(OC)c2)c1 |w:27.29|,CNC(=O)Oc1cccc(CN(C)CCCOc2ccc3C(=O)C(Oc3c2)=Cc2cc(OC)c(OC)c(OC)c2)c1 |w:27.29|,Acetylcholinesterase,,IC50,2.99,nM,1
+BindingDB,390166,,C(N1CCCC1)c1ccc(cc1)-c1nc2ccccc2o1,C(N1CCCC1)c1ccc(cc1)-c1nc2ccccc2o1,Acetylcholinesterase,,IC50,1350.0,nM,0
+BindingDB,326433,,COc1cc2ccc(=O)oc2cc1OCc1cc[n+](CCc2ccccc2)cc1,COc1cc2ccc(=O)oc2cc1OCc1cc[n+](CCc2ccccc2)cc1,Acetylcholinesterase,,IC50,5048.0,nM,0
+BindingDB,395851,,CCCC1(C)NC(=O)c2ccccc2N1Cc1ccccc1Cl,CCCC1(C)NC(=O)c2ccccc2N1Cc1ccccc1Cl,Acetylcholinesterase,,IC50,1000.0,nM,0
+BindingDB,15970,,CN(C)CCCCCCCCCCNc1c2CCCCc2nc2ccccc12,CN(C)CCCCCCCCCCNc1c2CCCCc2nc2ccccc12,Acetylcholinesterase,,IC50,45.0,nM,1
+BindingDB,15958,,CN(CCC1CCN(CC2CC2)CC1)C(=O)c1ccccc1,CN(CCC1CCN(CC2CC2)CC1)C(=O)c1ccccc1,Acetylcholinesterase,,IC50,38000.0,nM,0
+BindingDB,183455,,Oc1ccccc1C(=O)\C=C\c1ccccc1,Oc1ccccc1C(=O)\C=C\c1ccccc1,Acetylcholinesterase,,IC50,59200.0,nM,0
+BindingDB,321519,,[#6]C1([#6]-[#6](=[#6](C#N)\[#6](-[#7]1)=[#6](/C#N)C#N)-c1ccccc1)c1ccccc1 |t:3|,[#6]C1([#6]-[#6](=[#6](C#N)\[#6](-[#7]1)=[#6](/C#N)C#N)-c1ccccc1)c1ccccc1 |t:3|,Acetylcholinesterase,,IC50,20300.0,nM,0
+BindingDB,18578,,CNC(=O)Oc1cccc(CN(C)CCCCCOc2ccc3c(c2)oc2ccccc2c3=O)c1,CNC(=O)Oc1cccc(CN(C)CCCCCOc2ccc3c(c2)oc2ccccc2c3=O)c1,Acetylcholinesterase,,IC50,0.82,nM,1
+BindingDB,17345,,"COc1ccc2CN(CCCCCCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:36|","COc1ccc2CN(CCCCCCCCCCCCN3C(=O)c4ccccc4C3=O)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24 |r,c:36|",Acetylcholinesterase,,IC50,1400.0,nM,0
+BindingDB,408541,,CC(=O)c1cc[n+](C\C=C\C[n+]2ccc(cc2)C(C)=O)cc1,CC(=O)c1cc[n+](C\C=C\C[n+]2ccc(cc2)C(C)=O)cc1,Acetylcholinesterase,,IC50,139000.0,nM,0
+BindingDB,15890,,CCCNc1c2C(O)CCCc2nc2ccccc12,CCCNc1c2C(O)CCCc2nc2ccccc12,Acetylcholinesterase,,IC50,13300.0,nM,0
+BindingDB,15402,,Clc1ccc2c(NCCCCCCC(=O)NCCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Clc1ccc2c(NCCCCCCC(=O)NCCc3c[nH]c4ccccc34)c3CCCCc3nc2c1,Acetylcholinesterase,,IC50,0.1,nM,1
+BindingDB,24316,,COc1cc(cc(OC)c1OC)C(=O)NCCC(=O)NNc1c2CCCCc2nc2ccccc12,COc1cc(cc(OC)c1OC)C(=O)NCCC(=O)NNc1c2CCCCc2nc2ccccc12,Acetylcholinesterase,,IC50,100.0,nM,1
+BindingDB,18703,,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)Nc3ccccc3C)ccc1N2C |r|,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)Nc3ccccc3C)ccc1N2C |r|,Acetylcholinesterase,,IC50,10.0,nM,1
+BindingDB,15372,,O=C(CCCCCCNc1c2CCCCc2nc2ccccc12)NCCc1c[nH]c2ccccc12,O=C(CCCCCCNc1c2CCCCc2nc2ccccc12)NCCc1c[nH]c2ccccc12,Acetylcholinesterase,,IC50,1.0,nM,1
+BindingDB,15889,,CNc1c2C(O)CCCc2nc2ccccc12,CNc1c2C(O)CCCc2nc2ccccc12,Acetylcholinesterase,,IC50,1760.0,nM,0
+BindingDB,344795,,Cc1cc(=O)oc2cc(Oc3ccc(Nc4c5CCCCc5nc5ccccc45)cc3)ccc12,Cc1cc(=O)oc2cc(Oc3ccc(Nc4c5CCCCc5nc5ccccc45)cc3)ccc12,Acetylcholinesterase,,IC50,22100.0,nM,0
+BindingDB,321278,,CCCCCN(c1ccc(cc1C)-c1ccc(N(CCCCC)S(=O)(=O)c2ccccc2)c(C)c1)S(=O)(=O)c1ccccc1,CCCCCN(c1ccc(cc1C)-c1ccc(N(CCCCC)S(=O)(=O)c2ccccc2)c(C)c1)S(=O)(=O)c1ccccc1,Acetylcholinesterase,,IC50,51210.0,nM,0
+BindingDB,388737,,CCC1(C)NC(=O)c2cc(Br)cc(Br)c2N1,CCC1(C)NC(=O)c2cc(Br)cc(Br)c2N1,Acetylcholinesterase,,IC50,29400.0,nM,0
+BindingDB,388962,,CC(=O)NC(Cc1ccccc1F)C(=O)Nc1ccccc1,CC(=O)NC(Cc1ccccc1F)C(=O)Nc1ccccc1,Acetylcholinesterase,,IC50,86250.0,nM,0
+BindingDB,424005,,COc1cc2CC(CC3CCN(Cc4ccccc4)CC3)C(=O)c2cc1OC,COc1cc2CC(CC3CCN(Cc4ccccc4)CC3)C(=O)c2cc1OC,Acetylcholinesterase,,IC50,54.0,nM,1
+BindingDB,15380,,COc1ccc2[nH]cc(CCNC(=O)CCCCCNc3c4CCCCc4nc4cc(Cl)ccc34)c2c1,COc1ccc2[nH]cc(CCNC(=O)CCCCCNc3c4CCCCc4nc4cc(Cl)ccc34)c2c1,Acetylcholinesterase,,IC50,12.0,nM,1
+BindingDB,293126,,CC(=O)Nc1ccc(OCCCN2CCN(CC2)c2ccccn2)cc1,CC(=O)Nc1ccc(OCCCN2CCN(CC2)c2ccccn2)cc1,Acetylcholinesterase,,IC50,16680.0,nM,0
+BindingDB,292964,,COc1cccc2cc(-c3csc(NC(=O)Nc4ccc(C)cc4)n3)c(=O)oc12,COc1cccc2cc(-c3csc(NC(=O)Nc4ccc(C)cc4)n3)c(=O)oc12,Acetylcholinesterase,,IC50,82100.0,nM,0
+BindingDB,388958,,CC(=O)NC(Cc1ccc(F)cc1)C(=O)Nc1ccc(cc1)[N+]([O-])=O,CC(=O)NC(Cc1ccc(F)cc1)C(=O)Nc1ccc(cc1)[N+]([O-])=O,Acetylcholinesterase,,IC50,66000.0,nM,0
+BindingDB,389028,,Cc1ncc(\C=C\c2ccc(O)c(CN3CCCCC3)c2)c(CO)c1O,Cc1ncc(\C=C\c2ccc(O)c(CN3CCCCC3)c2)c(CO)c1O,Acetylcholinesterase,,IC50,17550.0,nM,0
+BindingDB,290150,,CCOP(=O)(OCC)Oc1ccc(Br)cc1C(=O)Nc1ccc(Cl)c(Cl)c1,CCOP(=O)(OCC)Oc1ccc(Br)cc1C(=O)Nc1ccc(Cl)c(Cl)c1,Acetylcholinesterase,,IC50,55200.0,nM,0
+BindingDB,18674,,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)NCCCCCCC)ccc1N2C,[H][C@]12N(C)CC[C@@]1(C)c1cc(OC(=O)NCCCCCCC)ccc1N2C,Acetylcholinesterase,,IC50,22.0,nM,1
+BindingDB,18624,,"CN(CCCCCCN(C)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3 |r,c:34,61,TLB:40:41:43.44.50:55.53.52,17:18:20.21.27:32.30.29,49:50:41:55.53.52,26:27:18:32.30.29,THB:31:30:18:20.21.27,45:44:41:55.53.52,54:53:41:43.44.50,22:21:18:32.30.29|","CN(CCCCCCN(C)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3)CCC(=O)N1CCC[C@@H]2C3Cc4[nH]c(=O)ccc4[C@]12CC(C)=C3 |r,c:34,61,TLB:40:41:43.44.50:55.53.52,17:18:20.21.27:32.30.29,49:50:41:55.53.52,26:27:18:32.30.29,THB:31:30:18:20.21.27,45:44:41:55.53.52,54:53:41:43.44.50,22:21:18:32.30.29|",Acetylcholinesterase,,IC50,35.9,nM,1
+BindingDB,292952,,Cc1ccc(NC(=O)Nc2nc(cs2)-c2cc3ccccc3oc2=O)cc1,Cc1ccc(NC(=O)Nc2nc(cs2)-c2cc3ccccc3oc2=O)cc1,Acetylcholinesterase,,IC50,81450.0,nM,0
+BindingDB,15932,,CC(=O)c1ccc(cc1)C(=O)NCCC1CCN(Cc2ccccc2)CC1,CC(=O)c1ccc(cc1)C(=O)NCCC1CCN(Cc2ccccc2)CC1,Acetylcholinesterase,,IC50,51.0,nM,1
+BindingDB,17728,,Cc1ccccc1NC(=O)Oc1ccc2OC3C[C@@](C)(CO3)c2c1 |r|,Cc1ccccc1NC(=O)Oc1ccc2OC3C[C@@](C)(CO3)c2c1 |r|,Acetylcholinesterase,,IC50,97.0,nM,1
+BindingDB,343750,,OC1CNC(=O)c2cccnc12,OC1CNC(=O)c2cccnc12,Acetylcholinesterase,,IC50,1296700.0,nM,0
+BindingDB,388954,,CC(=O)NC(Cc1cccc(F)c1)C(=O)Nc1ccc(C)cc1,CC(=O)NC(Cc1cccc(F)c1)C(=O)Nc1ccc(C)cc1,Acetylcholinesterase,,IC50,68700.0,nM,0
+BindingDB,397341,,CCOP(=O)(OCC)OC(C(C)CC#N)c1ccccc1,CCOP(=O)(OCC)OC(C(C)CC#N)c1ccccc1,Acetylcholinesterase,,IC50,35750.0,nM,0
+BindingDB,15979,,C(CCCCNc1ccnc2ccccc12)CCCCNc1c2CCCCc2nc2ccccc12,C(CCCCNc1ccnc2ccccc12)CCCCNc1c2CCCCc2nc2ccccc12,Acetylcholinesterase,,IC50,38.7,nM,1
+BindingDB,388473,,Clc1cccc(Cn2nncc2CNC(=O)c2cc3ccccc3oc2=O)c1Cl,Clc1cccc(Cn2nncc2CNC(=O)c2cc3ccccc3oc2=O)c1Cl,Acetylcholinesterase,,IC50,20230.0,nM,0
+BindingDB,17927,,CNC(=O)Oc1ccc2N(Cc3ccccc3)C3N(Cc4ccccc4)CC[C@@]3(C)c2c1 |r|,CNC(=O)Oc1ccc2N(Cc3ccccc3)C3N(Cc4ccccc4)CC[C@@]3(C)c2c1 |r|,Acetylcholinesterase,,IC50,1090.0,nM,0
+BindingDB,408538,,OCCCc1cc[n+](C\C=C\C[n+]2ccc(CCCO)cc2)cc1,OCCCc1cc[n+](C\C=C\C[n+]2ccc(CCCO)cc2)cc1,Acetylcholinesterase,,IC50,54000.0,nM,0
+BindingDB,395866,,COc1ccc2CN(C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24,COc1ccc2CN(C)CC[C@@]34C=C[C@H](O)C[C@@H]3Oc1c24,Acetylcholinesterase,,IC50,4000.0,nM,0
+BindingDB,321269,,CCCCN(c1ccc(cc1)-c1ccc(cc1)N(CCCC)S(=O)(=O)c1ccccc1)S(=O)(=O)c1ccccc1,CCCCN(c1ccc(cc1)-c1ccc(cc1)N(CCCC)S(=O)(=O)c1ccccc1)S(=O)(=O)c1ccccc1,Acetylcholinesterase,,IC50,8410.0,nM,0
